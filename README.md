@@ -1,1 +1,1 @@
-# djangoframewor_tutorial
+# DjangoProjects
